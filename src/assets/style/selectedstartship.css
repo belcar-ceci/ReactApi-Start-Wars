@@ -1,0 +1,18 @@
+.shipList {
+    width: 550px;
+    margin: 0 auto;
+  }
+  
+  h1 {
+    margin-block-start: 0;
+    margin-block-end: 0;
+  }
+  
+  p {
+    margin-block-start: 0;
+  }
+  
+  .selectDataRight {
+    width: 60%;
+  }
+  

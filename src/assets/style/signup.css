@@ -1,0 +1,85 @@
+#login-user {
+    margin: 5% auto;
+    width: 50%;
+    height: 35vw;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px #00000066;
+    background-color: #7d7d7d;
+}
+
+.login-card {
+  position: absolute;
+  box-sizing: border-box;
+  padding: 0% 2% 0;
+  width: 51vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  align-items: center;
+  
+}
+
+h2 {
+  font-size: 1.5rem;
+  text-align: center;
+  color: yellow;
+  font-family: monospace;
+  letter-spacing: 2px;
+}
+
+input[type="text"],
+input[type="password"] {
+  display: block;
+  border-radius: 0.9em;
+  margin-bottom: 35px;
+  padding: 4px;
+  width: 60%;
+  height: 4vw;
+  border: none;
+  border-bottom: 1px solid #aaa;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-size: 15px;
+  transition: 0.2s ease;
+}
+
+input[type="text"]:focus,
+input[type="password"]:focus {
+  border-bottom: 2px solid #e26d0e;
+  color: #db6d3a;
+  transition: 0.2s ease;
+}
+
+button[type="submit"] {
+  position: absolute;
+  top:98%;
+  width: 20%;
+  height: 3vw;
+  background: #ffeb3b;
+  border-color: #ffeb3b;
+  border: none;
+  border-radius: 0.5rem;
+  color: #070707;
+  font-family: "Roboto", sans-serif;
+  text-transform: uppercase;
+  transition: 0.1s ease;
+  cursor: pointer;
+}
+button:hover {
+  color: #0f0f0e !important;
+  box-shadow: 0 4px 16px #ddf035;
+  transition: all 0.2s ease;
+}
+button[type="submit"]:hover,
+button[type="submit"]:focus {
+  opacity: 0.8;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.4);
+  transition: 0.1s ease;
+}
+
+button[type="submit"]:active {
+  opacity: 1;
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.4);
+  transition: 0.1s ease;
+}
+

@@ -1,0 +1,15 @@
+@font-face {
+  font-family: "Starjedi";
+  src: url(../Font/SfDistantGalaxyOutlineItalic-4yA4.ttf)
+  format('truetype'); 
+}
+
+.App {
+    text-align: center;
+  }
+  
+  body {
+    margin: 0;
+    padding: 0;
+    width:100%;
+  }

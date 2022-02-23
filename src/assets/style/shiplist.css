@@ -1,0 +1,43 @@
+.shipsGrid {
+    background-color: #151515;
+    margin: 2% 15%;
+  }
+  
+  .shipsGrid > a > h3 {
+    font-weight: normal;
+    text-transform: uppercase;
+    padding: 4% 3% 0%;
+    margin-block-end: 0.5rem;
+  }
+  .shipsGrid > a > p {
+    padding: 0% 3% 4%;
+    text-decoration: none;
+    margin-block-start: 0.5rem;
+  }
+  .shipsGrid > div {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+  }
+  
+  a {
+    text-decoration: none;
+    color: #7d7d7d;
+  }
+  .viewMore{
+    position: relative; 
+      width: 14%;
+      height: 3vw;
+      background: #ffeb3b;
+      border-color: #ffeb3b;
+      border: none;
+      border-radius: 0.5rem;
+      color: #070707;
+      font-family: "Roboto", sans-serif;
+      text-transform: uppercase;
+      transition: 0.1s ease;
+      cursor: pointer;
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+  }

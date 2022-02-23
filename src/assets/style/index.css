@@ -1,0 +1,28 @@
+body {
+  margin: 0;
+  font-family: "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: subpixel-antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: rgb(0, 0, 0);
+  color: rgb(103, 101, 101);
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+main {
+  overflow-y: scroll;
+  padding-bottom: 20%;
+}
+
+/*Home*/
+
+.swPlayer{
+  width: 64%;
+  height: 36vw;
+}
+
