@@ -13,8 +13,8 @@
   -webkit-text-fill-color: transparent;
 }
 .h3Gradient{
-  font-size: 2.5rem;
-    letter-spacing: -3px;
+  font-size: 3rem;
+    letter-spacing: -4px;
     text-align: center;
     font-family: "Starjedi";
     line-height: 1.3;
@@ -30,7 +30,7 @@
     line-height: 1.3;
     color: inherit;
     font-weight: 900;
-    margin-bottom: 5%;
+    margin-bottom: 3%;
   background-image: 
   linear-gradient(to right, 
   rgb(231 233 237) 0%, 

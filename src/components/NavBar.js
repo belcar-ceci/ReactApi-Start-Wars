@@ -9,10 +9,10 @@ function NavBar() {
       <nav>
         <div className="containerNav">
           <div className="containerStartWars">
-            <img
+            <img  
               className="StarWarsLogo"
               src={StartWars}
-              alt="start wars TM"
+              alt="Logo"
             />
           </div>
           <div className="entryUser">

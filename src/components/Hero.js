@@ -12,11 +12,10 @@ const Hero = () => {
     <StyledContainer>
       
       <StyledText>
-      <h3 className="h3Gradient">THE BOOK  OF</h3>
-      <h2 className="h2Gradient">BOBA FETT</h2>
+      <h3 className="h3Gradient">THE BOOK OF BOBA FETT</h3>
       <h5 className="h1Gradient">SHIPS OF THE GALAXY: NABOO N1 START FIGTHER</h5>
         <p className="parrafo">
-          <b>Go Under the Hood of the classic of choice fir the Mandalorian. </b>
+          <b>Go Under the Hood of the classic of choice for the Mandalorian </b>
         </p>
         <div className="btn-div">
           <button className="buttonGet">READ MORE</button>

@@ -30,7 +30,7 @@ border: 0.125rem solid transparent;
 padding: 0;
 text-decoration: none;
 text-align: center;
-color: #fefefe;
+color: white;
 font-size: 1.5625rem;
 font-weight: normal;
 line-height: 2em;
