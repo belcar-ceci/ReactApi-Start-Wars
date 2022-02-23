@@ -31,7 +31,7 @@ function Home() {
           url={"https://www.youtube.com/watch?v=qxnPZId60jk"}
           className="swPlayer"
           playing
-          controls={false}
+          controls={true}
         />
         <ReactPlayer
           url={"https://www.youtube.com/watch?v=aOC8E8z_ifw"}

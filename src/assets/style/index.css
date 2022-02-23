@@ -26,3 +26,47 @@ main {
   height: 36vw;
 }
 
+/*@media (min-width:768px)*/
+@media (max-width: 550px) {
+  .hGuVar{
+    margin-top:29%;
+  }
+  .h3Gradient{
+    font-size:1.5rem;
+    letter-spacing: -2px;
+
+  }
+  .h1Gradient{
+    font-size:0.5rem;
+    margin-bottom: 3%;
+  }
+  .parrafo {
+    font-size: 0.5rem;
+  }
+  .buttonGet{
+    width: 45%;
+    height: 28px;
+    font-size: 0.3em;
+  }
+  .buttonGet2{
+    width: 46%;
+    height: 29px;
+    font-size: 0.3em;
+    margin-left: calc(70% - (116px + 5px) );
+  }
+  .StarWarsLogo{
+    height: 3rem;
+    width: 22%;
+    margin-top: -4%;
+  }
+  .dmdigQ {
+    display: inline-block;
+  }
+  .swPlayer{
+    width: 50%;
+    height: 50%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+}
