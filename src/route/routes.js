@@ -12,9 +12,9 @@ function Path() {
         <Route path="/SignUp" element={<SignUp />} />
         <Route path="/ShowShips" element={<ShowShips />} />
         <Route path="/detall/:name" element={<SelectedStartShip />} />
-
-        {/* Es muy recomendable añadir esta ruta para obtener un mensaje de error en el caso de que la ruta no exista. De lo contrario, si la ruta no existe llegaremos a una página en blanco */}
         <Route path="*" element={() => <div>404</div>} />
+           {/*It is recommended to add 404 route to get an error message, if the route does not exist.*/}
+           {/*The component should be displayed if a route is not recognized */}
       </Routes>
     </BrowserRouter>
   );
