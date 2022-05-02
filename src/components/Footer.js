@@ -67,7 +67,7 @@ const Footer = ({ creationDate }) => {
           <FooterIconSocial href="https://www.instagram.com/" target="_blank"><i className="fab fa-instagram"></i></FooterIconSocial>
         </FooterSocialButton>
       <FooterBottom>
-      <span>TMFAKE & © Lucasfilm Ltd. All Rights Reserved <FooterA href="https://github.com/belcar-ceci">belcar-ceci</FooterA>
+      <span>TMFAKE 2022 & © Lucasfilm Ltd. All Rights Reserved <FooterA href="https://github.com/belcar-ceci">belcar-ceci</FooterA>
       &copy; {creationDate} </span>
       </FooterBottom>
       
