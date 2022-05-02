@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/react-startwars/static/css/main.980bdef2.chunk.css",
+    "main.js": "/react-startwars/static/js/main.71b859cd.chunk.js",
+    "main.js.map": "/react-startwars/static/js/main.71b859cd.chunk.js.map",
+    "runtime-main.js": "/react-startwars/static/js/runtime-main.e270ab4a.js",
+    "runtime-main.js.map": "/react-startwars/static/js/runtime-main.e270ab4a.js.map",
+    "static/js/2.f4ffe9fd.chunk.js": "/react-startwars/static/js/2.f4ffe9fd.chunk.js",
+    "static/js/2.f4ffe9fd.chunk.js.map": "/react-startwars/static/js/2.f4ffe9fd.chunk.js.map",
+    "static/js/3.a499c197.chunk.js": "/react-startwars/static/js/3.a499c197.chunk.js",
+    "static/js/3.a499c197.chunk.js.map": "/react-startwars/static/js/3.a499c197.chunk.js.map",
+    "index.html": "/react-startwars/index.html",
+    "static/css/main.980bdef2.chunk.css.map": "/react-startwars/static/css/main.980bdef2.chunk.css.map",
+    "static/js/2.f4ffe9fd.chunk.js.LICENSE.txt": "/react-startwars/static/js/2.f4ffe9fd.chunk.js.LICENSE.txt",
+    "static/media/BUBBA.72c3399c.jpg": "/react-startwars/static/media/BUBBA.72c3399c.jpg",
+    "static/media/App.css": "/react-startwars/static/media/SfDistantGalaxyOutlineItalic-4yA4.2bf56be1.ttf",
+    "static/media/VaderFooter.23eb1229.jpeg": "/react-startwars/static/media/VaderFooter.23eb1229.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e270ab4a.js",
+    "static/js/2.f4ffe9fd.chunk.js",
+    "static/css/main.980bdef2.chunk.css",
+    "static/js/main.71b859cd.chunk.js"
+  ]
+}
