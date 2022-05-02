@@ -28,7 +28,7 @@ function Home() {
         <PlayerSubtitle>Lastest Video › </PlayerSubtitle>
         <PlayerCard>
         <ReactPlayer
-          url={"https://www.youtube.com/watch?v=qxnPZId60jk"}
+          url={"https://www.youtube.com/watch?v=Bi9GRafMz2E"}
           className="swPlayer"
           playing
           controls={true}
